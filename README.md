@@ -1,7 +1,7 @@
 # FizzBuzz
 A simple yet tricky problem which is even asked in interviews. 
 
-Inspiration taken from [this video](https://www.youtube.com/watch?v=QPZ0pIK_wsc&t=282s).
+Inspiration taken from [this video](https://www.youtube.com/watch?v=QPZ0pIK_wsc).
 
 # How does it work?
 - Make the algorithm count from 1 to 100.
